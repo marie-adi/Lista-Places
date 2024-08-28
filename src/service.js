@@ -13,9 +13,9 @@ async function getPlaces() {
   return places; // Retorna el array de lugares
 }
 
-// Renderizar los lugares en el DOM
+// Renderiza los lugares en el DOM
 async function renderPlaces() {
-  const places = await getPlaces(); // Obtén los lugares desde la API
+  const places = await getPlaces(); //obtiene los lugares
   const placeList = document.getElementById("placeList");
 
   // Crear un Set con los IDs de los lugares ya renderizados en el DOM
