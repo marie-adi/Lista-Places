@@ -1,0 +1,54 @@
+{
+  "placesToVisit": [
+    {
+      "id": "01",
+      "name": "El Escorial",
+      "completed": false
+    },
+    {
+      "id": "02",
+      "name": "La Hiruela",
+      "completed": false
+    },
+    {
+      "id": "03",
+      "name": "Piedralaves",
+      "completed": false
+    },
+    {
+      "id": "04",
+      "name": "Malaga",
+      "completed": false
+    },
+    {
+      "id": "dded",
+      "name": "Islas Cies",
+      "completed": false
+    },
+    {
+      "id": "5bb0",
+      "name": "Toledo",
+      "completed": false
+    },
+    {
+      "id": "dc84",
+      "name": "Valladolid",
+      "completed": false
+    },
+    {
+      "id": "f6cc",
+      "name": "Santander",
+      "completed": false
+    },
+    {
+      "id": "b4cd",
+      "name": "San Sebastian",
+      "completed": false
+    },
+    {
+      "id": "38b4",
+      "name": "Mallorca",
+      "completed": false
+    }
+  ]
+}

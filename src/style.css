@@ -1,0 +1,41 @@
+/* Estilo para tachar el texto del lugar visitado */
+.completed {
+    text-decoration: line-through;
+}
+
+/* Opcional: Estilos adicionales para mejorar la apariencia */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+input[type="text"] {
+    padding: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 5px 10px;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+}
+
+button {
+    margin-left: 10px;
+}
