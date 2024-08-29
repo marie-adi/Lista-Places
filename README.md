@@ -23,7 +23,7 @@ Primero, clona este repositorio en tu máquina local:
 
 ```bash
 git clone https://github.com/tuusuario/lugares-a-visitar.git
-cd lugares-a-visitar
+cd Lista-Places
 ```
 
 ### 3. 📦 Instalación de Dependencias
@@ -37,10 +37,7 @@ Instála globalmente JSON server con el siguiente comando:
 
 ```bash
 npm install -g json-server
-npm run api
 ```
-Ahora tu aplicación debería estar corriendo en `http://localhost:8000`. Abre tu navegador y empieza a visualizarlo.
-
 ### 4. 🗄️ Configura json-server
 Este proyecto utiliza json-server para simular una API REST, lo que nos permite manejar los datos de los lugares a visitar. Para configurar json-server, sigue estos pasos:
 
@@ -64,6 +61,7 @@ Con json-server corriendo. En una nueva terminal, inicia el servidor local:
 ```bash
 npm run api
 ```
+Ahora tu aplicación debería estar corriendo en `http://localhost:8000`. Abre tu navegador y empieza a visualizarlo.
 
 
 
