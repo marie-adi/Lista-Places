@@ -63,6 +63,14 @@ npm run api
 ```
 Ahora tu aplicación debería estar corriendo en `http://localhost:8000`. Abre tu navegador y empieza a visualizarlo.
 
+### 🎨 Personalización
+Si quieres personalizar algo, puedes jugar con el archivo style.css para darle tu toque personal. ¿Quieres cambiar el color de los botones? ¿Agregar un fondo? ¡Adelante!
+
+### 💬 Comentarios y Contribuciones
+¿Encontraste un error? ¿Tienes una idea genial para mejorar la aplicación? ¡Los issues y pull requests son más que bienvenidos! 🛠️
+
+### 📜 Licencia
+Este proyecto está bajo la Licencia MIT. Puedes hacer prácticamente lo que quieras con él, ¡disfruta y comparte! 🌎✨
 
 
 
