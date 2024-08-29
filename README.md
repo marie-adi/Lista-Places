@@ -55,7 +55,7 @@ json-server --watch db.json --port 8000
 ```
 Esto levantará un servidor en http://localhost:8000 que servirá el contenido de db.json.
 
-5. 🏁 Inicia la Aplicación
+### 5. 🏁 Inicia la Aplicación
 Con json-server corriendo. En una nueva terminal, inicia el servidor local:
 
 ```bash
@@ -70,7 +70,7 @@ Si quieres personalizar algo, puedes jugar con el archivo style.css para darle t
 ¿Encontraste un error? ¿Tienes una idea genial para mejorar la aplicación? ¡Los issues y pull requests son más que bienvenidos! 🛠️
 
 ### 📜 Licencia
-Este proyecto está bajo la Licencia MIT. Puedes hacer prácticamente lo que quieras con él, ¡disfruta y comparte! 🌎✨
+Puedes hacer prácticamente lo que quieras con él, ¡disfruta y comparte! 🌎✨
 
 
 
