@@ -41,14 +41,9 @@ npm install -g json-server
 ### 4. 🗄️ Configura json-server
 Este proyecto utiliza json-server para simular una API REST, lo que nos permite manejar los datos de los lugares a visitar. Para configurar json-server, sigue estos pasos:
 
-Crea un archivo db.json en la raíz del proyecto (si no está ya creado):
+Crea un archivo db.json en la raíz del proyecto (Aqui ya está creado):
 
-```bash
-{
-  "placesToVisit": []
-}
-```
-Inicia json-server para que sirva la API:
+Inicia json-server para que la API funcione:
 
 ```bash
 json-server --watch db.json --port 8000
@@ -67,7 +62,7 @@ Ahora tu aplicación debería estar corriendo en `http://localhost:8000`. Abre t
 Si quieres personalizar algo, puedes jugar con el archivo style.css para darle tu toque personal. ¿Quieres cambiar el color de los botones? ¿Agregar un fondo? ¡Adelante!
 
 ### 💬 Comentarios y Contribuciones
-¿Encontraste un error? ¿Tienes una idea genial para mejorar la aplicación? ¡Los issues y pull requests son más que bienvenidos! 🛠️
+¿Encontraste un error? ¿Tienes una idea para mejorar la aplicación? ¡Los issues y pull requests son más que bienvenidos! 🛠️
 
 ### 📜 Licencia
 Puedes hacer prácticamente lo que quieras con él, ¡disfruta y comparte! 🌎✨
